@@ -21,6 +21,7 @@ Actualmente, el progreso en los distintos tracks es el siguiente:
 |----------|----------------------|------------------|
 | Java     | 4                    | 156              |
 | SQL      | 1                    | 81               |
+| Bash     | 2                    | 93               |
 | JS       | 0                    | 156              |
 | Python   | 0                    | 146              |
 | C        | 0                    | 84               |
