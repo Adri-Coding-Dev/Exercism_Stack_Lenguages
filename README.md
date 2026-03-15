@@ -19,7 +19,7 @@ Actualmente, el progreso en los distintos tracks es el siguiente:
 
 | Lenguaje | Ejercicios completados | Total de ejercicios |
 |----------|----------------------|------------------|
-| Java     | 14                   | 156              |
+| Java     | 22                   | 156              |
 | SQL      | 1                    | 81               |
 | Bash     | 2                    | 93               |
 | JS       | 0                    | 156              |
