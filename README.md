@@ -17,7 +17,7 @@ El propósito de este repositorio es:
 
 Actualmente, el progreso en los distintos tracks es el siguiente:
 
-| Lenguaje | Ejercicios completados | Total de ejercicios | Barra de progreso |
+| Lenguaje | Ejercicios completados | Total de ejercicios | Progreso |
 |----------|----------------------|------------------|------------------|
 | Java     | 34                   | 156              |   ![](https://geps.dev/progress/21.8) |
 | SQL      | 1                    | 81               |   ![](https://geps.dev/progress/1.23) |
