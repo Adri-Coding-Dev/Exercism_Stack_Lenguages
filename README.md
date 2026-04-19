@@ -17,9 +17,9 @@ El propósito de este repositorio es:
 
 Actualmente, el progreso en los distintos tracks es el siguiente:
 
-| Lenguaje | Ejercicios completados | Total de ejercicios |
-|----------|----------------------|------------------|
-| Java     | 34                   | 156              |
+| Lenguaje | Ejercicios completados | Total de ejercicios | Barra de progreso |
+|----------|----------------------|------------------|------------------|
+| Java     | 34                   | 156              | <progress value="34" max="156"></progress> |
 | SQL      | 1                    | 81               |
 | Bash     | 2                    | 93               |
 | JS       | 0                    | 156              |
