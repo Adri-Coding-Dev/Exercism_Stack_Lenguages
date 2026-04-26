@@ -19,7 +19,7 @@ Actualmente, el progreso en los distintos tracks es el siguiente:
 
 | Lenguaje | Ejercicios completados | Total de ejercicios | Progreso |
 |----------|----------------------|------------------|------------------|
-| Java     | 34                   | 156              |   ![](https://geps.dev/progress/21.8) |
+| Java     | 37                   | 156              |   ![](https://geps.dev/progress/23.7) |
 | SQL      | 1                    | 81               |   ![](https://geps.dev/progress/1.23) |
 | Bash     | 2                    | 93               |   ![](https://geps.dev/progress/2.15) |
 | JS       | 0                    | 156              |   ![](https://geps.dev/progress/0.0) |
